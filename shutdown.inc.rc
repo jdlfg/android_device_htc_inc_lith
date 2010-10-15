@@ -1,0 +1,3 @@
+sleep 1
+umount /data/data
+

@@ -35,7 +35,6 @@
 /system/bin/wimaxDhcpRenew
 /system/etc/01_qcomm_omx.cfg
 /system/etc/AudioBTID.csv
-/system/etc/CDROM.ISO
 /system/etc/TPA2018.csv
 /system/etc/WPDB.zip
 /system/etc/agps_rm
